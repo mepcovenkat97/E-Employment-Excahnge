@@ -1,4 +1,4 @@
-# E-Employment-Excahnge
+# E-Employment-Exchange
 
 This is an Online Employment Exchange Portal
 
